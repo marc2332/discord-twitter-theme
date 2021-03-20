@@ -1,0 +1,43 @@
+* {
+	font-family: "Open Sans", sans-serif;
+}
+
+body {
+	background: rgb(44, 47, 51) !important;
+}
+
+.r-kemksi {
+	background: rgb(35, 39, 42);
+}
+
+.r-136ojw6{
+	background: transparent;
+}
+
+.r-13gxpu9 {
+	color: rgb(114, 137, 218);
+}
+
+.css-4rbku5[role="button"], .r-12rgx7y {
+	background: rgb(114, 137, 218)!important; 
+}
+
+.r-qo02w8 {
+	box-shadow: rgba(200, 200, 200, 0.8);
+}
+
+a[href="/home"]{
+	border-radius: 100px;
+}
+
+a[href="/compose/tweet"]{
+	border-radius: 6px;
+}
+
+a[href="/compose/tweet"]:hover{
+	opacity: 0.95;
+}
+
+.css-1dbjc4n{
+	border-radius: 6px;
+}
